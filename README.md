@@ -1,4 +1,4 @@
-# A/B-Testing-for-Data-Science-using-Python( courtesy: https://www.analyticsvidhya.com/blog/2020/10/ab-testing-data-science/)
+# A/B-Testing-for-Data-Science-using-Python ( courtesy: https://www.analyticsvidhya.com/blog/2020/10/ab-testing-data-science/)
 
 A/B Testing for Data Science using Python
 
