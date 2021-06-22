@@ -1,4 +1,4 @@
-# A/B-Testing-for-Data-Science-using-Python ( courtesy: https://www.analyticsvidhya.com/blog/2020/10/ab-testing-data-science/)
+# A/B-Testing-for-Data-Science-using-Python 
 
 A/B Testing for Data Science using Python
 
@@ -17,3 +17,5 @@ For instance, let’s say you own a company and want to increase the sales of yo
 In the above scenario, you may divide the products into two parts – A and B. Here A will remain unchanged while you make significant changes in B’s packaging. Now, on the basis of the response from customer groups who used A and B respectively, you try to decide which is performing better.
 
 It is a hypothetical testing methodology for making decisions that estimate population parameters based on sample statistics. The population refers to all the customers buying your product, while the sample refers to the number of customers that participated in the test.
+
+( courtesy: https://www.analyticsvidhya.com/blog/2020/10/ab-testing-data-science/)
