@@ -18,7 +18,6 @@ In the above scenario, you may divide the products into two parts – A and B. H
 
 It is a hypothetical testing methodology for making decisions that estimate population parameters based on sample statistics. The population refers to all the customers buying your product, while the sample refers to the number of customers that participated in the test.
 
-( courtesy: https://www.analyticsvidhya.com/blog/2020/10/ab-testing-data-science/)
 
 #### How does A/B Testing Work?
 
@@ -87,5 +86,11 @@ P-Value: It is the probability that the difference between the two values is jus
 Confidence interval: The confidence interval is an observed range in which a given percentage of test outcomes fall. We manually select our desired confidence level at the beginning of our test. Generally, we take a 95% confidence interval
 Next, we can calculate our t statistics using the below formula:
 
+![test_sta](https://user-images.githubusercontent.com/50706192/124101634-dbd74a80-da5f-11eb-8d3c-a5fe131ef3d7.png)
+
+
+
+
  
+
 
