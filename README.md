@@ -91,6 +91,10 @@ Next, we can calculate our t statistics using the below formula:
 
 
 
+( courtesy: https://www.analyticsvidhya.com/blog/2020/10/ab-testing-data-science/)
+
+
+
  
 
 
