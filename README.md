@@ -62,5 +62,16 @@ One way to perform the test is to calculate daily conversion rates for both the 
 
 When we run our experiment for one month, we noticed that the mean conversion rate for the Control group is 16% whereas that for the test Group is 19%.
 
+Statistical significance of the Test
+Now, the main question is – Can we conclude from here that the Test group is working better than the control group?
+
+The answer to this is a simple No! For rejecting our null hypothesis we have to prove the Statistical significance of our test.
+
+There are two types of errors that may occur in our hypothesis testing:
+
+Type I error: We reject the null hypothesis when it is true. That is we accept the variant B when it is not performing better than A
+Type II error: We failed to reject the null hypothesis when it is false. It means we conclude variant B is not good when it performs better than A
+To avoid these errors we must calculate the statistical significance of our test.
+
  
 
