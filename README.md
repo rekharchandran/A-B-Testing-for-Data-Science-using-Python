@@ -29,3 +29,37 @@ Our objective here is to check which newsletter brings higher traffic on the web
 
 ###### 1.  Make a Hypothesis
 
+In hypothesis testing, we have to make two hypotheses i.e Null hypothesis and alternative hypothesis. Let’s have a look at both.
+
+Null hypothesis or H0:
+The null hypothesis is the one that states that sample observations result purely from chance. From an A/B test perspective, the null hypothesis states that there is no difference between the control and variant groups. It states the default position to be tested or the situation as it is now, i.e. the status quo. Here our H0 is ” there is no difference in the conversion rate in customers receiving newsletter A and B”.
+
+Alternative Hypothesis or H0:
+The alternative hypothesis challenges the null hypothesis and is basically a hypothesis that the researcher believes to be true. The alternative hypothesis is what you might hope that your A/B test will prove to be true.
+
+In our example, the Ha is- “the conversion rate of newsletter B is higher than those who receive newsletter A“.
+
+Now, we have to collect enough evidence through our tests to reject the null hypothesis.
+
+ 
+
+2. Create Control Group and Test Group
+Once we are ready with our null and alternative hypothesis, the next step is to decide the group of customers that will participate in the test. Here we have two groups – The Control group, and the Test (variant) group.
+
+The Control Group is the one that will receive newsletter A and the Test Group is the one that will receive newsletter B.
+
+For this experiment, we randomly select 1000 customers – 500 each for our Control group and Test group.
+
+Randomly selecting the sample from the population is called random sampling. It is a technique where each sample in a population has an equal chance of being chosen. Random sampling is important in hypothesis testing because it eliminates sampling bias, and it’s important to eliminate bias because you want the results of your A/B test to be representative of the entire population rather than the sample itself.
+
+Another important aspect we must take care of is the Sample size. It is required that we determine the minimum sample size for our A/B test before conducting it so that we can eliminate under coverage bias. It is the bias from sampling too few observations.
+
+ 
+
+3. Conduct the A/B Test and Collect the Data
+One way to perform the test is to calculate daily conversion rates for both the treatment and the control groups. Since the conversion rate in a group on a certain day represents a single data point, the sample size is actually the number of days. Thus, we will be testing the difference between the mean of daily conversion rates in each group across the testing period.
+
+When we run our experiment for one month, we noticed that the mean conversion rate for the Control group is 16% whereas that for the test Group is 19%.
+
+ 
+
