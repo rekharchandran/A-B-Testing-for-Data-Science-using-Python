@@ -76,5 +76,9 @@ We reject the null hypothesis when it is true. That is we accept the variant B w
 We failed to reject the null hypothesis when it is false. It means we conclude variant B is not good when it performs better than A
 To avoid these errors we must calculate the statistical significance of our test.
 
+That means the difference between your control version and the test version is not due to some error or random chance. To prove the statistical significance of our experiment we can use a two-sample T-test.
+
+The two–sample t–test is one of the most commonly used hypothesis tests. It is applied to compare whether the average difference between the two groups.
+
  
 
