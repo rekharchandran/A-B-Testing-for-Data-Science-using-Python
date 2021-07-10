@@ -80,6 +80,8 @@ That means the difference between your control version and the test version is n
 The two–sample t–test is one of the most commonly used hypothesis tests. It is applied to compare whether the average difference between the two groups.
 
 To understand this, we must be familiar with a few terms:
+Significance level (alpha): The significance level, also denoted as alpha or α, is the probability of rejecting the null hypothesis when it is true. Generally, we use the significance value of 0.05
+
 
 
 
