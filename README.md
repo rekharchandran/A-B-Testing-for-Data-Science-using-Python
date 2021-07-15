@@ -85,8 +85,7 @@ Significance level (alpha): The significance level, also denoted as alpha or α,
 
 P-Value: It is the probability that the difference between the two values is just because of random chance. P-value is evidence against the null hypothesis. The smaller the p-value stronger the chances to reject the H0. For the significance level of 0.05, if the p-value is lesser than it hence we can reject the null hypothesis
 
-Confidence interval: The confidence interval is an observed range in which a given percentage of test outcomes fall. We manually select our desired confidence level at the beginning of our test. Generally, we take a 95% confidence interval
-Next, we can calculate our t statistics using the below formula:
+
 
 
 ![test_sta](https://user-images.githubusercontent.com/50706192/124101634-dbd74a80-da5f-11eb-8d3c-a5fe131ef3d7.png)
