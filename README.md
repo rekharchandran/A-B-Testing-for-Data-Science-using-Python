@@ -19,12 +19,6 @@ In the above scenario, you may divide the products into two parts – A and B. H
 It is a hypothetical testing methodology for making decisions that estimate population parameters based on sample statistics. The population refers to all the customers buying your product, while the sample refers to the number of customers that participated in the test.
 
 
-#### How does A/B Testing Work?
-
-Let’s say there is an e-commerce company XYZ. It wants to make some changes in its newsletter format to increase the traffic on its website. It takes the original newsletter and marks it A and makes some changes in the language of A and calls it B. Both newsletters are otherwise the same in color, headlines, and format.
-
-##### Objective
-Our objective here is to check which newsletter brings higher traffic on the website i.e the conversion rate. We will use A/B testing and collect data to analyze which newsletter performs better.
 
 ###### 1.  Make a Hypothesis
 
